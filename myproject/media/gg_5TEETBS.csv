@@ -1,0 +1,51 @@
+Date,Product Name,Product ID,Size,Quantity,Price,Discount,Total Sale,Branch
+2024-11-17,Running Shoe,101,44,2,70,5,133,Ambalantota
+2024-11-28,Sandals,104,42,5,45,12,213.75,Negambo
+2024-11-01,Boots,105,41,2,100,0,200,Ambalantota
+2024-11-09,Boots,105,40,2,100,0,200,Kandy
+2024-11-09,Flip Flops,107,42,4,20,5,76,Ambalantota
+2024-11-06,Formal Shoe,102,42,3,80,5,228,Kandy
+2024-11-23,Sneakers,103,42,1,60,5,57,Kandy
+2024-11-06,Boots,105,42,3,100,0,300,Ambalantota
+2024-11-25,Loafers,106,44,2,55,15,93.5,Mathara
+2024-11-12,Oxfords,110,44,3,85,15,216.75,Ambalantota
+2024-11-13,Flip Flops,107,42,5,20,5,95,Kandy
+2024-11-15,Boots,105,45,2,100,10,180,Mathara
+2024-11-15,Oxfords,110,42,1,85,0,85,Ambalantota
+2024-11-07,Boots,105,45,3,100,15,255,Kandy
+2024-11-21,Sandals,104,39,5,45,12,213.75,Mathara
+2024-11-11,Clogs,109,40,5,65,15,276.25,Ambalantota
+2024-11-07,Clogs,109,40,4,65,15,221,Kandy
+2024-11-07,Loafers,106,44,1,55,15,46.75,Ambalantota
+2024-11-04,Loafers,106,45,3,55,0,165,Mathara
+2024-11-08,Boots,105,40,1,100,5,95,Ambalantota
+2024-11-12,Boots,105,39,2,100,15,170,Kandy
+2024-11-04,Formal Shoe,102,42,5,80,5,380,Colombo
+2024-11-14,Formal Shoe,102,43,4,80,10,288,Colombo
+2024-11-04,Boots,105,43,1,100,15,85,Ambalantota
+2024-11-22,Flip Flops,107,40,5,20,5,95,Kandy
+2024-11-20,Boots,105,41,3,100,10,270,Colombo
+2024-11-07,Heels,108,42,4,90,0,360,Ambalantota
+2024-11-12,Heels,108,42,3,90,5,256.5,Colombo
+2024-11-14,Oxfords,110,39,5,85,15,361.25,Kandy
+2024-11-19,Heels,108,41,1,90,10,81,Ambalantota
+2024-11-20,Oxfords,110,44,5,85,15,361.25,Colombo
+2024-11-27,Formal Shoe,102,42,2,80,0,160,Negambo
+2024-11-23,Formal Shoe,102,43,1,80,10,72,Colombo
+2024-11-07,Boots,105,42,3,100,10,270,Negambo
+2024-11-03,Formal Shoe,102,42,2,80,10,144,Colombo
+2024-11-23,Sandals,104,44,5,45,12,191.25,Kandy
+2024-11-12,Loafers,106,42,2,55,0,110,Colombo
+2024-11-09,Sandals,104,39,4,45,15,153,Kandy
+2024-11-28,Flip Flops,107,39,2,20,10,36,Colombo
+2024-11-23,Sneakers,103,39,4,60,15,204,Ambalantota
+2024-11-13,Oxfords,110,44,4,85,15,289,Colombo
+2024-11-15,Boots,105,40,1,100,0,100,Negambo
+2024-11-20,Sandals,104,38,2,45,12,90,Ambalantota
+2024-11-25,Sneakers,103,44,3,60,0,180,Kandy
+2024-11-11,Flip Flops,107,43,5,20,10,90,Colombo
+2024-11-22,Formal Shoe,102,43,2,80,0,160,Ambalantota
+2024-11-24,Sneakers,103,44,4,60,0,240,Colombo
+2024-11-16,Running Shoe,101,44,5,70,0,350,Ambalantota
+2024-11-18,Oxfords,110,38,1,85,10,76.5,Ambalantota
+2024-11-05,Loafers,106,38,1,55,0,55,Colombo
